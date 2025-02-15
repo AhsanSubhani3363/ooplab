@@ -1,0 +1,7 @@
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\whileloop\whileloop\bin\Debug\whileloop.exe.config
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\whileloop\whileloop\bin\Debug\whileloop.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\whileloop\whileloop\bin\Debug\whileloop.pdb
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\whileloop\whileloop\obj\Debug\whileloop.csproj.AssemblyReference.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\whileloop\whileloop\obj\Debug\whileloop.csproj.CoreCompileInputs.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\whileloop\whileloop\obj\Debug\whileloop.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\whileloop\whileloop\obj\Debug\whileloop.pdb

@@ -1,0 +1,7 @@
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\loop\loop\bin\Debug\loop.exe.config
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\loop\loop\bin\Debug\loop.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\loop\loop\bin\Debug\loop.pdb
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\loop\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\loop\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\loop\loop\obj\Debug\loop.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\loop\loop\obj\Debug\loop.pdb

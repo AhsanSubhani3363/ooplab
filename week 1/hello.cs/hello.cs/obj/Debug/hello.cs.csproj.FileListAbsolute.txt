@@ -1,0 +1,7 @@
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\hello.cs\hello.cs\bin\Debug\hello.cs.exe.config
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\hello.cs\hello.cs\bin\Debug\hello.cs.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\hello.cs\hello.cs\bin\Debug\hello.cs.pdb
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\hello.cs\hello.cs\obj\Debug\hello.cs.csproj.AssemblyReference.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\hello.cs\hello.cs\obj\Debug\hello.cs.csproj.CoreCompileInputs.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\hello.cs\hello.cs\obj\Debug\hello.cs.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\hello.cs\hello.cs\obj\Debug\hello.cs.pdb

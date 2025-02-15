@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\self_assesement2-calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB62BD6B-A1E6-4B03-A992-A9746D57163D}|self_assesement2-calculator\\self_assesement2-calculator.csproj|c:\\users\\fastech laptop\\desktop\\semester 2\\oop\\oop lab\\week 2\\self_assesement2-calculator\\self_assesement2-calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB62BD6B-A1E6-4B03-A992-A9746D57163D}|self_assesement2-calculator\\self_assesement2-calculator.csproj|solutionrelative:self_assesement2-calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB62BD6B-A1E6-4B03-A992-A9746D57163D}|self_assesement2-calculator\\self_assesement2-calculator.csproj|c:\\users\\fastech laptop\\desktop\\semester 2\\oop\\oop lab\\week 2\\self_assesement2-calculator\\self_assesement2-calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB62BD6B-A1E6-4B03-A992-A9746D57163D}|self_assesement2-calculator\\self_assesement2-calculator.csproj|solutionrelative:self_assesement2-calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\self_assesement2-calculator\\self_assesement2-calculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "self_assesement2-calculator\\Calculator.cs",
+              "ToolTip": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\self_assesement2-calculator\\self_assesement2-calculator\\Calculator.cs",
+              "RelativeToolTip": "self_assesement2-calculator\\Calculator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAwwDIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:48:29.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\self_assesement2-calculator\\self_assesement2-calculator\\Program.cs",
+              "RelativeDocumentMoniker": "self_assesement2-calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\self_assesement2-calculator\\self_assesement2-calculator\\Program.cs*",
+              "RelativeToolTip": "self_assesement2-calculator\\Program.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAewB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:26:54.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\challenge_1Student_system\challenge_1Student_system\bin\Debug\challenge_1Student_system.exe.config
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\challenge_1Student_system\challenge_1Student_system\bin\Debug\challenge_1Student_system.exe
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\challenge_1Student_system\challenge_1Student_system\bin\Debug\challenge_1Student_system.pdb
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\challenge_1Student_system\challenge_1Student_system\obj\Debug\challenge_1Student_system.csproj.AssemblyReference.cache
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\challenge_1Student_system\challenge_1Student_system\obj\Debug\challenge_1Student_system.csproj.CoreCompileInputs.cache
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\challenge_1Student_system\challenge_1Student_system\obj\Debug\challenge_1Student_system.exe
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\challenge_1Student_system\challenge_1Student_system\obj\Debug\challenge_1Student_system.pdb

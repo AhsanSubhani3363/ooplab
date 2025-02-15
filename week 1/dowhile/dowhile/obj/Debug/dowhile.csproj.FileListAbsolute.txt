@@ -1,0 +1,7 @@
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\dowhile\dowhile\bin\Debug\dowhile.exe.config
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\dowhile\dowhile\bin\Debug\dowhile.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\dowhile\dowhile\bin\Debug\dowhile.pdb
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\dowhile\dowhile\obj\Debug\dowhile.csproj.AssemblyReference.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\dowhile\dowhile\obj\Debug\dowhile.csproj.CoreCompileInputs.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\dowhile\dowhile\obj\Debug\dowhile.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\dowhile\dowhile\obj\Debug\dowhile.pdb

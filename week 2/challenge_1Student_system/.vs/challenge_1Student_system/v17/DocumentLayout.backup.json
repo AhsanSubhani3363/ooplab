@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\challenge_1Student_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4968FF7E-43FC-4A0B-A097-618FC96569EC}|challenge_1Student_system\\challenge_1Student_system.csproj|c:\\users\\fastech laptop\\desktop\\semester 2\\oop\\oop lab\\week 2\\challenge_1student_system\\challenge_1student_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4968FF7E-43FC-4A0B-A097-618FC96569EC}|challenge_1Student_system\\challenge_1Student_system.csproj|solutionrelative:challenge_1student_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4968FF7E-43FC-4A0B-A097-618FC96569EC}|challenge_1Student_system\\challenge_1Student_system.csproj|c:\\users\\fastech laptop\\desktop\\semester 2\\oop\\oop lab\\week 2\\challenge_1student_system\\challenge_1student_system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4968FF7E-43FC-4A0B-A097-618FC96569EC}|challenge_1Student_system\\challenge_1Student_system.csproj|solutionrelative:challenge_1student_system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\challenge_1Student_system\\challenge_1Student_system\\student.cs",
+              "RelativeDocumentMoniker": "challenge_1Student_system\\student.cs",
+              "ToolTip": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\challenge_1Student_system\\challenge_1Student_system\\student.cs",
+              "RelativeToolTip": "challenge_1Student_system\\student.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:31:51.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\challenge_1Student_system\\challenge_1Student_system\\Program.cs",
+              "RelativeDocumentMoniker": "challenge_1Student_system\\Program.cs",
+              "ToolTip": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\challenge_1Student_system\\challenge_1Student_system\\Program.cs",
+              "RelativeToolTip": "challenge_1Student_system\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAewBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:26:38.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

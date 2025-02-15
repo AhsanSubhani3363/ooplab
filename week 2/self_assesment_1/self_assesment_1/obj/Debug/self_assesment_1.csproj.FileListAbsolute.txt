@@ -1,0 +1,7 @@
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_assesment_1\self_assesment_1\bin\Debug\self_assesment_1.exe.config
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_assesment_1\self_assesment_1\bin\Debug\self_assesment_1.exe
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_assesment_1\self_assesment_1\bin\Debug\self_assesment_1.pdb
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_assesment_1\self_assesment_1\obj\Debug\self_assesment_1.csproj.AssemblyReference.cache
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_assesment_1\self_assesment_1\obj\Debug\self_assesment_1.csproj.CoreCompileInputs.cache
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_assesment_1\self_assesment_1\obj\Debug\self_assesment_1.exe
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_assesment_1\self_assesment_1\obj\Debug\self_assesment_1.pdb

@@ -1,0 +1,7 @@
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\variabledec\variabledec\bin\Debug\variabledec.exe.config
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\variabledec\variabledec\bin\Debug\variabledec.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\variabledec\variabledec\bin\Debug\variabledec.pdb
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\variabledec\variabledec\obj\Debug\variabledec.csproj.AssemblyReference.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\variabledec\variabledec\obj\Debug\variabledec.csproj.CoreCompileInputs.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\variabledec\variabledec\obj\Debug\variabledec.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\variabledec\variabledec\obj\Debug\variabledec.pdb

@@ -1,0 +1,7 @@
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\passfail\passfail\bin\Debug\passfail.exe.config
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\passfail\passfail\bin\Debug\passfail.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\passfail\passfail\bin\Debug\passfail.pdb
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\passfail\passfail\obj\Debug\passfail.csproj.AssemblyReference.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\passfail\passfail\obj\Debug\passfail.csproj.CoreCompileInputs.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\passfail\passfail\obj\Debug\passfail.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\passfail\passfail\obj\Debug\passfail.pdb

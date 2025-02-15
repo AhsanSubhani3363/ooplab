@@ -1,0 +1,7 @@
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\ooplab\ooplab\bin\Debug\ooplab.exe.config
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\ooplab\ooplab\bin\Debug\ooplab.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\ooplab\ooplab\bin\Debug\ooplab.pdb
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\ooplab\ooplab\obj\Debug\ooplab.csproj.AssemblyReference.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\ooplab\ooplab\obj\Debug\ooplab.csproj.CoreCompileInputs.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\ooplab\ooplab\obj\Debug\ooplab.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\ooplab\ooplab\obj\Debug\ooplab.pdb

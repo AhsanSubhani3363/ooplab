@@ -1,0 +1,7 @@
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\float\float\bin\Debug\@float.exe.config
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\float\float\bin\Debug\@float.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\float\float\bin\Debug\@float.pdb
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\float\float\obj\Debug\float.csproj.AssemblyReference.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\float\float\obj\Debug\float.csproj.CoreCompileInputs.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\float\float\obj\Debug\@float.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\float\float\obj\Debug\@float.pdb

@@ -1,0 +1,7 @@
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\input\input\bin\Debug\input.exe.config
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\input\input\bin\Debug\input.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\input\input\bin\Debug\input.pdb
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\input\input\obj\Debug\input.csproj.AssemblyReference.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\input\input\obj\Debug\input.csproj.CoreCompileInputs.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\input\input\obj\Debug\input.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\input\input\obj\Debug\input.pdb

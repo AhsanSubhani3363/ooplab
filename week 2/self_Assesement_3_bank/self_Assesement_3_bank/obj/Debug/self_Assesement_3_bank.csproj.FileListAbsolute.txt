@@ -1,0 +1,7 @@
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_Assesement_3_bank\self_Assesement_3_bank\bin\Debug\self_Assesement_3_bank.exe.config
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_Assesement_3_bank\self_Assesement_3_bank\bin\Debug\self_Assesement_3_bank.exe
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_Assesement_3_bank\self_Assesement_3_bank\bin\Debug\self_Assesement_3_bank.pdb
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_Assesement_3_bank\self_Assesement_3_bank\obj\Debug\self_Assesement_3_bank.csproj.AssemblyReference.cache
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_Assesement_3_bank\self_Assesement_3_bank\obj\Debug\self_Assesement_3_bank.csproj.CoreCompileInputs.cache
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_Assesement_3_bank\self_Assesement_3_bank\obj\Debug\self_Assesement_3_bank.exe
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_Assesement_3_bank\self_Assesement_3_bank\obj\Debug\self_Assesement_3_bank.pdb

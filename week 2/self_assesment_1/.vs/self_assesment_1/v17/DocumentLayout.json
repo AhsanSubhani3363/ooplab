@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\self_assesment_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62BA0CFE-566F-457D-B726-C7E257265E73}|self_assesment_1\\self_assesment_1.csproj|c:\\users\\fastech laptop\\desktop\\semester 2\\oop\\oop lab\\week 2\\self_assesment_1\\self_assesment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BA0CFE-566F-457D-B726-C7E257265E73}|self_assesment_1\\self_assesment_1.csproj|solutionrelative:self_assesment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BA0CFE-566F-457D-B726-C7E257265E73}|self_assesment_1\\self_assesment_1.csproj|c:\\users\\fastech laptop\\desktop\\semester 2\\oop\\oop lab\\week 2\\self_assesment_1\\self_assesment_1\\transcation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BA0CFE-566F-457D-B726-C7E257265E73}|self_assesment_1\\self_assesment_1.csproj|solutionrelative:self_assesment_1\\transcation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transcation.cs",
+              "DocumentMoniker": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\self_assesment_1\\self_assesment_1\\Transcation.cs",
+              "RelativeDocumentMoniker": "self_assesment_1\\Transcation.cs",
+              "ToolTip": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\self_assesment_1\\self_assesment_1\\Transcation.cs",
+              "RelativeToolTip": "self_assesment_1\\Transcation.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAMwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:12:09.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\self_assesment_1\\self_assesment_1\\Program.cs",
+              "RelativeDocumentMoniker": "self_assesment_1\\Program.cs",
+              "ToolTip": "C:\\Users\\FASTECH LAPTOP\\Desktop\\semester 2\\oop\\oop lab\\week 2\\self_assesment_1\\self_assesment_1\\Program.cs",
+              "RelativeToolTip": "self_assesment_1\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAwwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:08:08.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

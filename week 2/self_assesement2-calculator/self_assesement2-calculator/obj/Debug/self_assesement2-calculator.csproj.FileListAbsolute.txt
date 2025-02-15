@@ -1,0 +1,7 @@
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_assesement2-calculator\self_assesement2-calculator\obj\Debug\self_assesement2-calculator.csproj.AssemblyReference.cache
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_assesement2-calculator\self_assesement2-calculator\obj\Debug\self_assesement2-calculator.csproj.CoreCompileInputs.cache
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_assesement2-calculator\self_assesement2-calculator\bin\Debug\self_assesement2-calculator.exe.config
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_assesement2-calculator\self_assesement2-calculator\bin\Debug\self_assesement2-calculator.exe
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_assesement2-calculator\self_assesement2-calculator\bin\Debug\self_assesement2-calculator.pdb
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_assesement2-calculator\self_assesement2-calculator\obj\Debug\self_assesement2-calculator.exe
+C:\Users\FASTECH LAPTOP\Desktop\semester 2\oop\oop lab\week 2\self_assesement2-calculator\self_assesement2-calculator\obj\Debug\self_assesement2-calculator.pdb

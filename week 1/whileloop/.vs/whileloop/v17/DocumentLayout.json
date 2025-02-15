@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FASTECH LAPTOP\\Desktop\\oop\\week 1 c#\\oop lab\\whileloop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{778683F7-21BC-4474-8066-6C8EE95DC0F2}|whileloop\\whileloop.csproj|c:\\users\\fastech laptop\\desktop\\oop\\week 1 c#\\oop lab\\whileloop\\whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778683F7-21BC-4474-8066-6C8EE95DC0F2}|whileloop\\whileloop.csproj|solutionrelative:whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FASTECH LAPTOP\\Desktop\\oop\\week 1 c#\\oop lab\\whileloop\\whileloop\\Program.cs",
+              "RelativeDocumentMoniker": "whileloop\\Program.cs",
+              "ToolTip": "C:\\Users\\FASTECH LAPTOP\\Desktop\\oop\\week 1 c#\\oop lab\\whileloop\\whileloop\\Program.cs",
+              "RelativeToolTip": "whileloop\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:15:15.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

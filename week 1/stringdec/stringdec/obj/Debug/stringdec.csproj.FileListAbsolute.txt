@@ -1,0 +1,7 @@
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\stringdec\stringdec\bin\Debug\stringdec.exe.config
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\stringdec\stringdec\bin\Debug\stringdec.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\stringdec\stringdec\bin\Debug\stringdec.pdb
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\stringdec\stringdec\obj\Debug\stringdec.csproj.AssemblyReference.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\stringdec\stringdec\obj\Debug\stringdec.csproj.CoreCompileInputs.cache
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\stringdec\stringdec\obj\Debug\stringdec.exe
+C:\Users\FASTECH LAPTOP\Desktop\oop\week 1 c#\oop lab\stringdec\stringdec\obj\Debug\stringdec.pdb
